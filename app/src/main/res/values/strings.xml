@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pizzaria Kotlin</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_senha">Senha</string>
+    <string name="hint_login">Informe o login</string>
+    <string name="hint_senha">Informa sua senha</string>
+    <string name="bt_login">Conectar</string>
+</resources>
